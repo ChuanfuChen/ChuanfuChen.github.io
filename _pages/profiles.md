@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: prof_pic.jpeg
-    content: about_einstein.md
+    content: about_chen.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Dr. Chuanfu Chen</p>
