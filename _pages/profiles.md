@@ -18,11 +18,19 @@ profiles:
       <p>Ph.D. in Physics and Mathematics</p>
       <p>China Dalian and Russia Moscow</p>
   - align: left
-    image: prof_pic.jpeg
-    content: about_einstein.md
+    image: Padokhin_A_M.png
+    content: about_padokhin.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Dr. Chuanfu Chen</p>
+      <p>Dr. Padokhin</p>
       <p>Ph.D. in Physics and Mathematics</p>
-      <p>China Dalian and Russia Moscow</p>
+      <p>Moscow State University</p>
+  - align: left
+    image: Andereva.png
+    content: about_andereva.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Dr. Andereva</p>
+      <p>Ph.D. in Physics and Mathematics</p>
+      <p>Moscow State University</p>
 ---
