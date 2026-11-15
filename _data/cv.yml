@@ -2,48 +2,46 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Chuanfu Chen
     - name: Date of Birth
-      value: 14th March 1879
+      value: 13th Dec 1992
     - name: Languages
-      value: English, German
+      value: English, Russian, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Physics and Mathematics
+      institution: Lomonosov Moscow State University, Moscow, Russia
+      year: 2021-2024
       description:
-        - Description 1.
-        - Description 2.
+        - Major in Mathematical Physics (Atmospheric & Climate Sciences)
+        - Research on ionospheric modeling and GNSS signal processing
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Master of Science
+      institution: Lomonosov Moscow State University, Moscow, Russia
+      year: 2019-2021
       description:
-        - Description 1.
-        - Description 2.
+        - Physics
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Associate Professor
+      institution: Dalian Maritime University, Dalian, China
+      year: 2026.09‑present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - College of Information Science and Technology
+        - title: National Engineering Research Center of Maritime Navigation System
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Beidou System
+            - Galileo System
+    - title: Junior Researcher
+      institution: Lomonosov Moscow State University, Moscow, Russia
+      year: 2025‑present
       description:
         - Description 1.
         - Description 2.
