@@ -42,7 +42,7 @@ scopus_id: 58292258000
 # strava_userid: # your strava user id
 # telegram_username: # your Telegram user name
 # unsplash_id: # your unsplash id
-wechat_qr: assets/img/wechat_qr.JPG
+wechat_qr: wechat_qr.JPG
 whatsapp_number: +79252403456
 wikidata_id: ChenChuanfu
 # wikipedia_id: # your wikipedia id (Case sensitive)
@@ -50,7 +50,9 @@ wikidata_id: ChenChuanfu
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://www.alberteinstein.com/
+
+
+# custom_social: # can be any name here other than the ones already defined above
+#   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
+#   title: Custom Social
+#   url: https://www.alberteinstein.com/
