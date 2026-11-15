@@ -27,7 +27,7 @@ profiles:
       <p>Moscow State University</p>
   - align: left
     image: about_andereva_e_s.md
-    content: about_andereva.md
+    content: about_andereva_e_s.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Dr. Andereva</p>
