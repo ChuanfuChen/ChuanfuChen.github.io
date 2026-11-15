@@ -26,7 +26,7 @@ profiles:
       <p>Ph.D. in Physics and Mathematics</p>
       <p>Moscow State University</p>
   - align: left
-    image: Andereva.png
+    image: about_andereva_e_s.md
     content: about_andereva.md
     image_circular: false # crops the image to make it circular
     more_info: >
