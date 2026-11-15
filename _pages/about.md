@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Ph.D. in Physics and Mathematics,</a> Moscow State University 
+subtitle: <a href='https://dissovet.msu.ru/dissertation/3411'>Ph.D. in Physics and Mathematics,</a>, <a href="https://www.msu.ru/en/" target="_blank">Lomonosov Moscow State University</a>
 
 profile:
   align: right
