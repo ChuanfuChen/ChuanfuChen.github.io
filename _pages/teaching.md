@@ -2,11 +2,10 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Physics
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+- 2022.09 — 2023.06, 莫斯科国立大学, 物理系, **讲师**, 授课 “力学实验”
+- 2021.09 — 2022.06, 莫斯科国立大学, 物理系, **助理教授**, 授课 “环境遥感中的物理学基础”, 参与莫斯科国立大学《环境遥感物理基础》课程教学方法体系（УМК）建设与课程材料编写，并获得俄罗斯科学院专家评审“优秀”评价
