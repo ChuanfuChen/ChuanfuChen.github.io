@@ -2,17 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://dissovet.msu.ru/dissertation/3411'>Ph.D. in Physics and Mathematics,</a>, <a href="https://www.msu.ru/en/" target="_blank">Lomonosov Moscow State University</a>
+subtitle: <a href="https://dissovet.msu.ru/dissertation/3411">Ph.D. in Physics and Mathematics</a>, Lomonosov Moscow State University
 
 profile:
   align: right
   image: prof_pic.jpeg
-  image_circular: false # crops the image to make it circular
+  image_circular: false # crops the image to make it circular 是否开启圆形头像：true=圆形；false=保持原图形状
   more_info: >
-    <p>🇷🇺 +7(925)240-34-56</p>
-    <p>🇨🇳 +76 176 0211 4985</p>
-    <p>🇬🇧 +44 7955 679151</p>
-    <p>119991, st. Leninskie Gory, house 1, building E, Moscow, Russia</p>
+    <p>Chinese name: 陈川福</p>
+    <p>English name: Chuanfu Chen</p>
+    <p>Russian name: Чэнь Чуаньфу</p>
+   
+    <p>Address: 119991, st. Leninskie Gory, house 1, building E, Moscow, Russia</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
