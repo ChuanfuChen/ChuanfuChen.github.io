@@ -10,7 +10,6 @@
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-google_scholar_userid: Cu65WpcAAAAJ
 email: chuanfu.chen@physics.msu.ru # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
@@ -35,7 +34,7 @@ orcid_id: 0000-0002-9896-5841
 # quora_username: # your Quora username
 research_gate_profile: Chuanfu‑Chen‑3
 rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+scholar_userid: Cu65WpcAAAAJ # your Google Scholar ID
 scopus_id: 58292258000
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
