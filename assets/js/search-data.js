@@ -504,20 +504,6 @@ ninja.data = [{
           window.open("", "_blank");
         },
       },{
-        id: 'social-researchgate_username',
-        title: 'Researchgate_username',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
-        },
-      },{
-        id: 'social-scopus',
-        title: 'Scopus',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.scopus.com/authid/detail.uri?authorId=58292258000", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -532,11 +518,11 @@ ninja.data = [{
           window.open("https://github.com/ChuanfuChen", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://www.linkedin.com/in/Chuanfu-Chen", "_blank");
         },
       },{
         id: 'social-orcid',
@@ -544,6 +530,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://orcid.org/0000-0002-9896-5841", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Chuanfu‑Chen‑3/", "_blank");
         },
       },{
         id: 'social-rss',
@@ -558,6 +551,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-scopus',
+        title: 'Scopus',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.scopus.com/authid/detail.uri?authorId=58292258000", "_blank");
         },
       },{
         id: 'social-wechat_qr',
