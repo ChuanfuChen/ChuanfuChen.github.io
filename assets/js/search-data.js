@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "You can click the top pdf download button.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -572,13 +572,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.wikidata.org/wiki/ChenChuanfu", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
       id: 'light-theme',
