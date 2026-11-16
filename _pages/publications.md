@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
+title: publications
 description: Peer-reviewed journal articles and conference papers, sorted in reverse chronological order.
 nav: true
 nav_order: 2
