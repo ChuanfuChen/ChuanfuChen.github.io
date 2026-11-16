@@ -6,14 +6,14 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Chuanfu
 middle_name:
 last_name: Chen
-contact_note: "🇨🇳 +86 17602114985"
+contact_note: "Please contact via email first"
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Chuanfu Chen, Associate Professor at Dalian Maritime University. Research on ionosphere, GNSS AltBOC signal, TEC/GEC modeling, BDGIM and NeQuickG.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: TEC, GEC, AltBOC, GNSS, Beidou, Galileo, GPS, Glonass, Ionosphere, 陈川福 # add your own keywords or leave empty
+keywords: TEC, GEC, AltBOC, GNSS, Beidou, Galileo, GPS, Glonass, Ionosphere, ChuanfuChen, 陈川福 # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: My_logo.svg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -85,18 +85,18 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Chuanfu Chen # blog_name will be displayed in your blog page
-blog_description: 记录自己的学术之路
-permalink: /blog/:year/:title/
-lsi: false # produce an index for related posts
+blog_name: Research Notes # blog_name will be displayed in your blog page
+blog_description: A collection of personal research drafts and technical notes.
+permalink: /blog/:year/:title/ # ✅ 保留，友好的URL
+lsi: false # produce an index for related posts (关联文章索引，false 足够，不用开)
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: true # ✅ 开启分页，文章多了很好用
 
 related_blog_posts:
   enabled: true
-  max_related: 5
+  max_related: 5 # ✅ 读完一篇自动推荐相关笔记，非常适合科研笔记
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
@@ -115,7 +115,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: Chuanfu # put your disqus shortname
+disqus_shortname: # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
