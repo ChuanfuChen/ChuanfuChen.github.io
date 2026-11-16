@@ -440,16 +440,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-joined-dalian-maritime-university-as-associate-professor-sparkles-smile-link",
+          title: 'Joined Dalian Maritime University as Associate Professor :sparkles: :smile:  link',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-很高兴加入dmu-sparkles-smile",
-          title: '很高兴加入DMU :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-大连市科技项目",
-          title: '大连市科技项目',
+          section: "News",},{id: "news-awarded-dalian-city-science-and-technology-project",
+          title: 'Awarded Dalian City Science and Technology Project',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
