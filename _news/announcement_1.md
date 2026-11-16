@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-大连市科技项目
+Awarded Dalian City Science and Technology Project

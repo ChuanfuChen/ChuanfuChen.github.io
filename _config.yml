@@ -12,7 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: TEC, GEC, AltBOC, GNSS, Beidou, Galileo, GPS, Glonass, Ionosphere, ChuanfuChen, 陈川福 # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: My_logo.svg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -86,7 +86,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Research Notes # blog_name will be displayed in your blog page
-blog_description: A collection of personal research drafts and technical notes.
+blog_description: On ionosphere, GNSS signal processing, TEC/GEC modeling and space weather
 permalink: /blog/:year/:title/ # ✅ 保留，友好的URL
 lsi: false # produce an index for related posts (关联文章索引，false 足够，不用开)
 
