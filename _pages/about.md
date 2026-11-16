@@ -11,7 +11,6 @@ profile:
   more_info: >
     <p>Chuanfu Chen(陈川福 / Чэнь Чуаньфу)</p>
     <p>Associate Professor, Dalian Maritime University</p>
-    <p>Research: Ionosphere, GNSS, TEC/GEC, BDGIM & NeQuickG</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
